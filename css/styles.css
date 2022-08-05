@@ -1,0 +1,10 @@
+.content {
+  color: blueviolet;
+  font-family: verdana;
+  background-color: gold;
+}
+
+.background {
+  color: gold;
+  background-color: blueviolet;
+}
