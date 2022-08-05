@@ -14,6 +14,10 @@
 
 _This browser application allows users to view Ted's portfolio. They can see the projects that I have created so far at Epicodus, as well as links to the Github repositories for these projects. There is an about me section, a few paragraphs about my background, and a list of my hobbies, interests and skills._
 
+## Github Pages Link
+
+*_tgold83.github.io/Portfolio-Project_
+
 ## Setup/Installation Requirements
 
 * _Clone this repository to your desktop_
