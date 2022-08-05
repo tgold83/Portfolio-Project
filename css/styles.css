@@ -8,3 +8,18 @@
   color: gold;
   background-color: blueviolet;
 }
+
+img {
+  float: left;
+  margin: auto;
+  border: 30px;
+  padding: 30px;
+}
+
+ol {
+  float: right;
+  margin: auto;
+  border: 50px;
+  padding: 30px;
+}
+
