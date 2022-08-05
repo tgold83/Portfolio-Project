@@ -1,9 +1,9 @@
 .content {
-  color: blueviolet;
-  font-family: verdana;
-  background-color: gold;
-  font-weight: bold;
-  float: left;
+  color: blueviolet !important;
+  font-family: verdana !important;
+  background-color: gold !important;
+  font-weight: bold !important;
+  float: left !important;
 }
 
 .background {
@@ -23,10 +23,10 @@ img {
 }
 
 ol {
-  float: right;
-  margin: auto;
-  border: 50px goldenrod;
-  padding: 30px;
+  float: right !important;
+  margin: auto !important;
+  border: 50px goldenrod !important;
+  padding: 30px !important;
 }
 
 p {
